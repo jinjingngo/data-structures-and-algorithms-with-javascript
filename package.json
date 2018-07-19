@@ -1,0 +1,27 @@
+{
+  "name": "data-structures-and-algorithms-with-javascript",
+  "version": "1.0.0",
+  "description": "Data Structures and Algorithms with JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "git+https://github.com/charleserious/data-structures-and-algorithms-with-javascript.git",
+  "keywords": [
+    "Data",
+    "Structures",
+    "and",
+    "Algorithms",
+    "with",
+    "JavaScript"
+  ],
+  "author": "Charles",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/charleserious/data-structures-and-algorithms-with-javascript/issues"
+  },
+  "homepage": "https://github.com/charleserious/data-structures-and-algorithms-with-javascript#readme",
+  "devDependencies": {
+    "eslint": "^5.1.0"
+  }
+}
